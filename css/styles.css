@@ -27,8 +27,9 @@ h2{
 }
 
 .jumbotron {
+	
   margin: 0px auto;
-  padding: 70px 30px;
+  padding: 100px 30px;
   background: #151515;
   color: floralwhite; }
 
@@ -119,9 +120,9 @@ body {
   
 
 .navbar-inverse {
-  background-color:rgb(255, 218, 6);
-   color:black ;
-
+  background-color:rgba(3, 0, 3, 0.87);
+  color:rgb(255, 255, 255) ;
+  
 
  }
 
@@ -452,8 +453,8 @@ input {
 
 .overlay {
 	background: #FF416C;
-	background: -webkit-linear-gradient(to right,#fbe2a7,#ffc500);
-	background: linear-gradient(to right,#fbe2a7,#ffc500);
+	background: -webkit-linear-gradient(to right,#eaa7fb,#9b07a8);
+	background: linear-gradient(to right,#eaa7fb,#9b07a8);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 0;
